@@ -1,21 +1,21 @@
 {
   "/Users/neoziro/Projects/smooth-ui/packages/core-sc/dist/smooth-ui-core-sc.es.js": {
-    "bundled": 84828,
-    "minified": 56457,
-    "gzipped": 13650,
+    "bundled": 84939,
+    "minified": 56520,
+    "gzipped": 13928,
     "treeshaked": {
       "rollup": {
-        "code": 451,
-        "import_statements": 451
+        "code": 473,
+        "import_statements": 473
       },
       "webpack": {
-        "code": 2093
+        "code": 2149
       }
     }
   },
   "/Users/neoziro/Projects/smooth-ui/packages/core-sc/dist/smooth-ui-core-sc.cjs.js": {
-    "bundled": 91594,
-    "minified": 62677,
-    "gzipped": 14451
+    "bundled": 91684,
+    "minified": 62718,
+    "gzipped": 14749
   }
 }
